@@ -64,7 +64,7 @@ Basically, the stairs are endless until they put out all sources of light. Chara
 On closing eyes and extinguishing light, players step on to a flat surface and reach out to find an unlocked door infront of them.
 
 ### Games room
-A room with three games tables, each with stools in front, and a dealer behind.  Only the first dealer will play, the others will point the player to the first table.
+A room with three games tables, each with stools in front, and a dealer behind.  Only the first dealer will play, the others will point the player to the first table.  The dealer and two bartenders are all copies of the barkeeper that served in Phadalin.  They are [mages](https://roll20.net/compendium/dnd5e/Mage?fromList=Mage&Name=&Speed=&Type%5B%5D=humanoid%20(any%20race)#content).
 
 **Game 1**
 Each player rolls 4d6 and keeps them hidden, then puts out the one they don't want to use for all to see.  Then betting begins until all players call or have folded.  Betting is done with hit points.  Once the dealer hits 0 hp, the players can move on.

@@ -70,7 +70,6 @@ A room with three games tables, each with stools in front, and a dealer behind. 
 Each player rolls 4d6 and keeps them hidden, then puts out the one they don't want to use for all to see.  Then betting begins until all players call or have folded.  Betting is done with hit points.  Once the dealer hits 0 hp, the players can move on.
 
 **Gambit of Ord**
-
 Card game, 50 gold pieces initial buy-in
 
 While Vox Machina didn’t get a chance to try their hand at this competitive card game in Luck’s Run, your players can press their luck thanks to the detailed notes Matt Mercer shared with Critical Role fans.

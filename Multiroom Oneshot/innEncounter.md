@@ -69,6 +69,20 @@ A room with three games tables, each with stools in front, and a dealer behind. 
 **Game 1**
 Each player rolls 4d6 and keeps them hidden, then puts out the one they don't want to use for all to see.  Then betting begins until all players call or have folded.  Betting is done with hit points.  Once the dealer hits 0 hp, the players can move on.
 
+**Gambit of Ord**
+
+Card game, 50 gold pieces initial buy-in
+
+While Vox Machina didn’t get a chance to try their hand at this competitive card game in Luck’s Run, your players can press their luck thanks to the detailed notes Matt Mercer shared with Critical Role fans.
+
+Rules: Each card player rolls 1d8, keeping the die hidden. Each player has the chance to raise the bet, call the bet (meet it), or fold. It continues when all bets are equal.
+
+Then each player rolls a 1d6, keeping it secret as well. A final chance to raise, call, or fold. Each remaining player rolls 1d4. They all reveal the 1d8, 1d6, and 1d4, adding them all together.
+
+Winner takes 80% of the pot (the other 20% goes to the casino). Ties split the 80%.
+
+Sleight of Hand can give a reroll; Deception can force a fold.
+
 
 ### Skills rooms
 Corridor with 4 doors, 2 on each side and large double door at the end.  The double door has an eye engraved on each side.  It is locked and can not be opened by lockpicking or magical means.

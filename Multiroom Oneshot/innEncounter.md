@@ -61,29 +61,30 @@ It leads down to pitch-blackness.
 
 Basically, the stairs are endless until they put out all sources of light. Characters with *darkvision* must close their eyes. The endless monotony of descending stairs takes its toll after a while, and eventually the PCs will have to start making concentration checks to avoid tumbling down the steps and taking superficial bludgeoning damage (1d4). Past a few hours, they might start suffering from temporary levels of exhaustion.
 
-On closing eyes and extinguishing light, players step on to a flat surface and reach out to find an unlocked door infront of them.
+On closing eyes and extinguishing light, players step on to a flat surface and reach out to find an unlocked door in front of them.
 
-### Games room
-A room with three games tables, each with stools in front, and a dealer behind.  Only the first dealer will play, the others will point the player to the first table.  The dealer and two bartenders are all copies of the barkeeper that served in Phadalin.  They are [brawlers](https://www.5esrd.com/classes/fighter/fighter-martial-archetypes/brawler-3pp/) should they need to be in combat.  If there is any trouble the statue turns out to be an [stone golem](https://www.dndbeyond.com/monsters/stone-golem).
+### Bar
+A large, upper class bar.  Three large tables in the center, 2 are empty but the 3rd appears to be a games table with a dealer sitting in one of the seats.  If the players sit down he offers them a game of Gambit of Ord.  Should they win he will give them the key to open a secret door behind the fire place.
+
+Just inside the entrance is a large stone statue of well built man, looks a bit like a boxer.  If questioned, bartenders will tell players he's called "The Champ", an unbeaten fighter: very tough, hard to hurt and packs a big punch. Turns into to be an [stone golem](https://www.dndbeyond.com/monsters/stone-golem) if there is trouble.
+
+To the right is a large bar with 2 bartenders.  The bar is a normal bar, serves the usual drinks and bartenders talk as if nothing is out the ordinary.
+
+Dealer and bartenders are all identical to the innkeeper from Phandalin, and are [brawlers](https://www.5esrd.com/classes/fighter/fighter-martial-archetypes/brawler-3pp/) should they need to be in combat.
 
 **Game 1**
-Each player rolls 4d6 and keeps them hidden, then puts out the one they don't want to use for all to see.  Then betting begins until all players call or have folded.  Betting is done with hit points.  Once the dealer hits 0 hp, the players can move on.
+Each player rolls 4d6 and keeps them hidden, then puts out the one they don't want to use for all to see.  Then betting begins until all players call or have folded.  Betting is done with hit points.  Once the dealer hits 0 hp, players win.
 
 **Gambit of Ord**
 Card game, 50 gold pieces initial buy-in
-
-While Vox Machina didn’t get a chance to try their hand at this competitive card game in Luck’s Run, your players can press their luck thanks to the detailed notes Matt Mercer shared with Critical Role fans.
 
 Rules: Each card player rolls 1d8, keeping the die hidden. Each player has the chance to raise the bet, call the bet (meet it), or fold. It continues when all bets are equal.
 
 Then each player rolls a 1d6, keeping it secret as well. A final chance to raise, call, or fold. Each remaining player rolls 1d4. They all reveal the 1d8, 1d6, and 1d4, adding them all together.
 
-Winner takes 80% of the pot (the other 20% goes to the casino). Ties split the 80%.
-
 Sleight of Hand can give a reroll; Deception can force a fold.
 
-Each bet is an hit with a 1d6+3 dagger, must roll a constitution sve (DC14) or get and additional
-
+Each bet is an hit with a 1d4+3 dagger, must roll a constitution sve (DC14) or get and additional 2d6 necrotic damage.
 
 ### Skills rooms
 Corridor with 4 doors, 2 on each side and large double door at the end.  The double door has an eye engraved on each side.  It is locked and can not be opened by lockpicking or magical means.

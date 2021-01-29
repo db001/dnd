@@ -9,6 +9,7 @@
 Pact with Infernal demons to get revenge against those who have wronged them.
 
 ## Random Encouters
+
 Roll a d???
 
 1. Nothing
@@ -19,6 +20,7 @@ Roll a d???
 6. Wandering Bards
 7. Goblin Encounter
 8. Wandering merchant and armed guard.
+9.
 
 ## Goblin Encounter
 
@@ -45,7 +47,6 @@ Roll 1d8 to see goods they have left
 
 1. Healing potions x3 - 30gp each
 2. Fresh meats and herbs - 5gp
-3. 
-    - Studded leather armour - 40gp
+3.  - Studded leather armour - 40gp
     - Long sword - 12gp
     - Darts x10 - 5cp each
